@@ -1,0 +1,8 @@
+Facebook, Instagram социалдык тармактары жана WhatsApp мессенджери (бардыгы Facebook корпорациясына таандык) дүйшөмбү күнү түштөн кийин олуттуу үзгүлтүккө учурады. Бул акыркы жылдардагы эң ири деп бааланган учур. Социалдык тармактар жана мессенджер көпчүлүк колдонуучуларга беш сааттан ашык жеткиликсиз болуп турду. Бул тууралуу azattyk.org жазды. 
+Социалдык тармактар жана WhatsApp иштебей калганы тууралуу алгачкылардан болуп АКШ, Батыш Европа жана Орусиянын колдонуучулары коңгуроо кагышкан. Аталган сайттардын тиркемелери да иштен чыккан.
+Көйгөй Бишкек убактысы боюнча саат кечки тогуздарда башталган. Корпорация маселе чечилип жатканын билдирди. Анын себептери азырынча расмий түрдө жарыялана элек.
+We"re aware that some people are having trouble accessing our apps and products. We"re working to get things back to normal as quickly as possible, and we apologize for any inconvenience.
+WhatsAppтын өкүлү NBCге билдиргендей, компаниянын кеңсесинде "электрондук почтадан башка эч нерсе иштебей калган".
+"Бир катар көрсөтмөлөргө ылайык, DNS, домендик аталыштар системасында көйгөйлөр болгон. Колдонуучуларга Facebook.com же Instagram.comду кантип табууну айтып турган DNS жазуулары бүгүн эртең менен глобалдык маршруттардан өчүрүлдү", - деп жазат Брайан Кребс The Independent басылмасынан.
+Facebook, Instagram жана WhatsApp Бишкек убактысы боюнча түнкү саат 3төр чамасында акырындап оңоло баштаган. Бирок айрым аймактарда ал дагы деле иштебей турушу толук ыктымал.
+Confirmed: The DNS records that tell systems how to find https://t.co/qHzVq2Mr4E or https://t.co/JoIPxXI9GI got withdrawn this morning from the global routing tables. Can you imagine working at FB right now, when your email no longer works & all your internal FB-based tools fail?
